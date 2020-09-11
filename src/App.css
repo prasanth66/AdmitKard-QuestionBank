@@ -1,0 +1,13 @@
+.greenColour{
+    color:green;
+}
+.blueColour{
+    color:lightblue;
+}
+.center{
+    margin: auto;
+}
+
+#search{
+    width: 50vw;
+}
